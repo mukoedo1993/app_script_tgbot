@@ -1,1 +1,1 @@
-# app_script_tgbot
+# python_bot_following_tutorial
